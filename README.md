@@ -1,8 +1,8 @@
-# MinION flow cell (1D) metadata (R9.0 and R9.4) 
+# MinION flow cell output metadata (R9.0 and R9.4) 
 
 This repository contains:
 
-A tab delimited file of metadata gathered from published studies
+A tab delimited file of 1D metadata gathered from published studies
 ```
 MinION_metadata.txt
 ```
@@ -20,7 +20,7 @@ The metadata includes (per flow cell):
 
   3. Flow cell yield (in Gbp).
 
-Interested users may easily add/subsitute their data and run the script to place their flow cell output in context.
+Interested users may easily add/subsitute their data and run the script to examine their flow cell output.
 
 ![Screenshot](MinION_metaplot.png)
 
