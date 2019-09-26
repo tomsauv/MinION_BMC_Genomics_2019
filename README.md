@@ -2,7 +2,7 @@
 
 This repository contains:
 
-A tab delimited file with gathered metadata from published studies (see file "MinION_metadata.txt")
+A tab delimited file with gathered metadata from published studies ("MinION_metadata.txt")
 
 An R script to produce the figure below ("MinION_metaplot.r")
 
