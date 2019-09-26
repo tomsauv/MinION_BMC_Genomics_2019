@@ -23,3 +23,5 @@ The metadata includes (per flow cell):
 Interested users may easily add/subsitute their data and run the script to place their flow cell output in context.
 
 ![Screenshot](MinION_metaplot.png)
+
+# Citation
