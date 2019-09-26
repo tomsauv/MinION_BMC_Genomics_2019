@@ -18,7 +18,7 @@ The metadata includes (per flow cell):
 
   2. Average 1D read length (in bp)
 
-  3. Flow cell yield (in Gbp).
+  3. Flow cell 1D yield (in Gbp).
 
 Interested users may easily add/subsitute their data and run the script to examine their flow cell output.
 
