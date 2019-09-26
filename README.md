@@ -1,3 +1,3 @@
 # MinION_metadata
 
-<a href="tomsauv/MinION_metaplot.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/tomsauv/MinION_metadata_BMC_Genomics/MinION_metaplot.pdf" target="_blank">PDF.</a>
