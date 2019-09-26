@@ -12,14 +12,14 @@ An R script to produce the figure below with packagae ggplot2
 MinION_metaplot.r
 ```
 
-The metadata reports (per flow cell):
+The metadata includes (per flow cell):
 
-1. Number of 1D reads (in millions)
+  1. Number of 1D reads (in millions)
 
-2. Average 1D read length (in bp)
+  2. Average 1D read length (in bp)
 
-3. Flow cell yield (in Gbp).
+  3. Flow cell yield (in Gbp).
 
-Interested users may add/subsitute their data and run the script to place their flow cell output in context.
+Interested users may easily add/subsitute their data and run the script to place their flow cell output in context.
 
 ![Screenshot](MinION_metaplot.png)
