@@ -2,7 +2,7 @@
 
 This repository contains:
 
-A tab delimited file with gathered metadata from published studies
+A tab delimited file of metadata gathered from published studies
 ```
 MinION_metadata.txt
 ```
