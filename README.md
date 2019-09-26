@@ -3,6 +3,7 @@
 This repository contains:
 
 A tab delimited file with gathered metadata from published studies (see file "MinION_metadata.txt")
+
 An R script to produce the figure below ("MinION_metaplot.r")
 
 The metadata includes number of 1D reads produced (in millions) and corresponding average 1D read length (in bp) and flow cell yield (in Gbp).
