@@ -1,4 +1,3 @@
 # MinION_metadata
 
-
-![Screenshot](MinION_metaplot.pdf)
+<a href="tomsauv/MinION_metaplot.pdf" target="_blank">PDF.</a>
