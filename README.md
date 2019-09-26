@@ -1,4 +1,4 @@
-# MinION Flow cell 1D metadata R9.0 and R9.4 
+# MinION flow cell 1D metadata (R9.0 and R9.4) 
 
 This repository contains:
 
