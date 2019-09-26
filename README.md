@@ -14,11 +14,11 @@ MinION_metaplot.r
 
 The metadata reports (per flow cell):
 
-Number of 1D reads produced (in millions)
+1. Number of 1D reads (in millions)
 
-Average 1D read length (in bp)
+2. Average 1D read length (in bp)
 
-Flow cell yield (in Gbp).
+3. Flow cell yield (in Gbp).
 
 Interested users may add/subsitute their data and run the script to place their flow cell output in context.
 
