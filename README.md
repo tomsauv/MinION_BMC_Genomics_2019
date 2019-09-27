@@ -2,7 +2,7 @@
 
 This repository contains:
 
-A tab delimited file of 1D metadata gathered from published studies
+A tab delimited file of 1D run metadata gathered from published studies
 ```
 MinION_metadata.txt
 ```
@@ -16,7 +16,7 @@ The metadata includes (per flow cell):
 
   1. Number of 1D reads (in millions)
 
-  2. Average 1D read length (in bp)
+  2. Average 1D read length (in Kbp)
 
   3. Flow cell 1D yield (in Gbp).
 
