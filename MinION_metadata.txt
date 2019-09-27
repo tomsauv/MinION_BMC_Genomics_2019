@@ -1,0 +1,137 @@
+Reads_in_million_1D	Yield_in_Gbp_1D	Mean_read_Length_1D	Chemistry	Flow_cell	Study	Notes
+0.238937	1.480467	7.64	R9.0		Loman blog	--
+0.356209	1.409812422	3.957	R9.0	FAB38981	"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.018406	0.0331	1.799	R9.0	FAB29720	"This study, Caulerpa ashmeadii"	--
+0.268959	0.7229	2.688	R9.0		"This study, Caulerpa ashmeadii"	--
+1.481906	1.700235379	1.938	R9.0		"Weirather et al., 2017. F1000Research 6:100"	Average read length estimated
+0.082259	0.089244295	1.085	R9.0		"Batovskaa et al., 2017. Journal of virology methods 249:79-84"	--
+0.198913	0.219411804	0.831	R9.0		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.1846	1.169061304	4.052	R9.0		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.142374	0.931927653	4.486	R9.0		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.155508	1.019278312	4.43	R9.0		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.268004	1.340369063	5.001	R9.0		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.161378	0.653447905	4.049	R9.0		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.252424	3.339142817	13.228	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.43924	5.183715529	11.802	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.520761	6.650042702	12.77	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.4314	5.252529782	12.176	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.5613	7.058376081	12.575	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.380518	5.36478396	14.099	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.346686	4.956793607	14.297	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.219392	2.942797165	13.413	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.379071	5.171422068	13.642	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.45107	6.721699609	14.901	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.092994	1.334258832	14.348	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.52376	5.360546441	10.238	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.166466	1.717528003	10.317	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.122505	1.146492883	9.358	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.186513	1.815953333	9.736	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.328053	4.215219836	12.849	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.203146	2.594558262	12.771	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.327709	3.87011025	11.809	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.499116	5.886334951	11.793	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.370723	4.223196504	11.391	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.416857	3.459880516	8.299	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.14468	1.763487955	12.188	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.249427	3.0616839	12.274	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.395151	5.042395024	12.76	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.371137	4.578018827	12.335	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.431745	5.333852075	12.354	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.484175	6.103006087	12.604	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.251396	2.705390485	10.761	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.317257	3.56641211	11.241	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+1.133214	7.324445582	6.463	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+1.009641	7.1615522	7.093	R9.4		"Schmidt et al., 2017. The Plant Cell. 29: 2336-2348"	--
+0.150604	5.014576373	33.296	R9.4		Loman blog	--
+0.658224	3.287994454	4.995	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.466329	2.439355478	5.23	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.436976	2.273008592	5.201	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.43066	1.966505502	4.566	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.117057	0.687394987	5.872	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.267644	1.399557161	5.229	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.016669	0.075062609	4.503	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.572838	3.275026637	5.717	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.317654	1.686630108	5.309	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.233678	1.520513556	6.506	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.644869	3.357548938	5.206	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.038291	0.179704035	4.693	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.435158	2.363036522	5.43	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.817629	4.530477841	5.54	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.276152	1.750149482	6.337	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.033527	0.163405138	4.873	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.322058	2.020615256	6.274	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.193551	1.339441522	6.92	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.128234	0.799554798	6.235	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.491346	2.038018797	4.147	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.072605	0.286275511	3.942	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.530938	2.864140853	5.394	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.426941	2.539015084	5.946	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.558224	3.443824633	6.169	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.339447	2.913892142	8.584	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.254705	2.203636947	8.651	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.053547	0.445641679	8.322	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.632728	4.972081712	7.858	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.689781	5.455971336	7.909	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.632158	4.906148911	7.76	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.471698	3.695661984	7.834	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.309175	2.841008085	9.188	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.472656	3.689043164	7.804	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.746333	4.438258089	5.946	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.22438	3.141600861	14.001	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.091304	1.21358444	13.291	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.082138	1.806857522	21.998	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.053723	1.252868852	23.321	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.041385	0.848632752	20.506	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.019674	0.594496244	30.217	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.073755	1.987434656	26.946	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.075692	1.831031405	24.191	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.061227	1.533616061	25.048	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.065142	1.639658993	25.171	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.270189	2.730589684	10.106	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.009663	0.322753214	33.401	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.072936	1.49694356	20.524	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.068169	1.731054841	25.394	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.071155	1.750584936	24.602	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.45102	3.613667827	8.012	R9.4		"Jain et al., 2018. Nature Biotechnology 36:338-345"	Whole Human Genome Sequencing Project (Github)
+0.300053	3.4	11.4	R9.4		"Micheal et al.,2018. Nature Communications 9:541"	--
+3.6	12.7	3.544	R9.4		MinION forum Poreboard: Matthew Loose	--
+0.329	2.3	9.6	R9.4		"Carter et al., 2017. Wellcome Open Resv.2"	--
+2.190384	13.04646495	5.948	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+2.525383	10.79514166	4.182	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+0.041915	0.098239671	2.678	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+0.477026	0.172062025	0.5	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+0.84068	6.65	7.7	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+2.220446	2.54	1.144	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+0.114203	0.267	2.345	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+0.006461	0.0379	7	R9.4		MinION forum Poreboard: Anne Lise Ducluzeau (Personal communication)	--
+0.296803	4.390511947	14.79268	R9.4		MinION forum Poreboard: Baptiste Mayjonnade (Personal communication)	--
+0.519216	7.037923287	13.5549	R9.4		MinION forum Poreboard: Baptiste Mayjonnade (Personal communication)	--
+1.074981	12.92137694	12.0201	R9.4		MinION forum Poreboard: Baptiste Mayjonnade (Personal communication)	--
+0.878978	12.78158224	14.54141	R9.4		MinION forum Poreboard: Baptiste Mayjonnade (Personal communication)	--
+1.177914	15.78357809	13.3996	R9.4		MinION forum Poreboard: Baptiste Mayjonnade (Personal communication)	--
+1.12817	13.39416199	11.87247	R9.4		MinION forum Poreboard: Baptiste Mayjonnade (Personal communication)	--
+0.692336	10.1	15.11	R9.4		MinION forum Poreboard: Louise Pankhurst (Personal communication)	--
+1.289381	15.04	12.15	R9.4		MinION forum Poreboard: Louise Pankhurst (Personal communication)	--
+0.53262	0.8137	1.6	R9.4		"Russell et al., 2018. Scientific reports 8:5417"	Average read length from SRA summary
+0.283547	0.1333	0.46	R9.4		"Russell et al., 2018. Scientific reports 8:5417"	Average read length from SRA summary
+0.837413	10.48	13.568	R9.4		"Wick et al., 2017. Microbial Genomics 3"	--
+3.66	4.3	1.188	R9.4		"Luo et al. 2017. G3: Genes, Genomes, Genetics 7(11):3831-3836"	Average read length from SRA summary
+0.128171	0.971130587	7.577	R9.4		"Mitsuhashi et al., 2017. Scientific Reports 7:14789"	--
+0.541484	6.76270545	12.489	R9.4		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.153653	1.230832063	8.01	R9.4		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.421187	5.492310937	13.04	R9.4		Tyson et al. 2018. Genome Res. 28:266-274	--
+0.782591	2.685280348	3.431	R9.4		Yasodha et al. 2018. DNA Research 25(4):409	Unclear in article if 1 or multiple flow cells used but output seem to represent one flow cell
+0.455344	3.878154428	8.517	R9.4		"Tan et al., 2018. GigaScience 7(3):gix137"	--
+0.2471	2.3	9.19	R9.4		"Tan et al., 2018. GigaScience 7(3):gix137"	--
+0.1334	1.6	11.775	R9.4		"Tan et al., 2018. GigaScience 7(3):gix137"	--
+1.717607	6.7	3.893	R9.4		"Mondal et al., 2017. F1000Research 6:1750"	--
+0.930281	2.375	2.553	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+0.922376	2.597	2.822	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+1.571846	2.29	1.457	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+1.808087	3.002	1.66	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+0.451065	1.723	3.819	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+0.445963	2.028	4.547	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+1.958001	3.834	1.958	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+2.296453	4.678	2.037	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+2.074871	6.5	3.119	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
+1.722835	4.9	2.838	R9.4		"Eccles D. et al. 2018, BMC Biology 16:6"	--
