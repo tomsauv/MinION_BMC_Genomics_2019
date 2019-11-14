@@ -26,6 +26,5 @@ Interested users may easily add/subsitute their data and run the script to exami
 
 # Citation
 
-Sauvage T, Schmidt WE, Yoon HS, Paul VJ, Fredericq S (2019) **Promising prospects of nanopore sequencing for algal hologenomics and structural variation discovery**. _BMC Genomics_ 20:850. DOI:10.1186/s12864-019-6248-2
-
+Sauvage T, Schmidt WE, Yoon HS, Paul VJ, Fredericq S (2019) **Promising prospects of nanopore sequencing for algal hologenomics and structural variation discovery**. _BMC Genomics_ 20:850. [DOI:10.1186/s12864-019-6248-2](https://doi.org/10.1186/s12864-019-6248-2)
 
